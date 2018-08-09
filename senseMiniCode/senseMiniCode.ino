@@ -10,7 +10,7 @@
  * open for further ideas
  * made for pifcamp 2018 http://pif.camp
  * 
- * full documentation at:
+ * full documentation at:https://github.com/bastl-instruments/senseMini
  */
 #include <SoftwareSerial.h>
 #include <MIDI.h>
